@@ -1,0 +1,10 @@
+Aditya raj
+class 10th- 9.8 cgpa
+class 12th- 88%
+btech 1st sem- 9.4 sgpa
+sem 2- 9.4 sgpa
+sem3-8.73 sgpa
+skills-coding,front-end devlopement,html,javascript,css,DSA,operating system.
+Programming languages familiar with:- c++/c,java,javascript,python.
+Hobby:-Cricket,chess,poetry.
+Area of interest:-cyber security,Artificial intelligence,software devlopement.
